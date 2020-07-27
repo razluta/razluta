@@ -9,4 +9,4 @@ I mainly work in C#, but dabble in Python, C++ and JavaScript on occasion.
 - 📂 I’m currently working at ... [Unity Technologies](https://unity.com/)
 - 🔑 I'm currently learning ... Data Oriented Design
 - 💬 Ask me about ... [@razluta](https://twitter.com/razluta)
-- ✉️ How to reach me: ... contact@razluta.com
+- ✉️ How to reach me ... contact@razluta.com
