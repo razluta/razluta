@@ -1,4 +1,4 @@
-# Razvan (Raz) Luta --- @razluta  [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=EXZLYB9MFXANJ&currency_code=USD&source=url)
+# Razvan (Raz) Luta --- @razluta
 Hi, this is Raz.\
 I'm a Technical Artist, which for me means I enjoy making art content as much as I enjoy writing software.\
 I work primarily on automating content pipelines and make tools in and around Unity (well DCC packages - Maya, ZBrush, Photoshop, Substance Painter, Substance Designer etc. + Unity Editor and Engine).\
