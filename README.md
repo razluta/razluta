@@ -1,5 +1,5 @@
 # Razvan (Raz) Luta --- @razluta
-Hi, this is Raz.\
+Hi, this is [Raz](https://www.linkedin.com/in/razluta).\
 By day, I am a Senior Manager at [Unity Techologies](https://unity.com/).\
 I'm a Technical Artist at heart, which for me means I enjoy making art content as much as I enjoy writing software.\
 I work primarily on video game performance optimization, automating content pipelines and make tools in and around Unity (well DCC packages - Maya, ZBrush, Photoshop, Substance Painter, Substance Designer etc. + Unity Editor and Engine).\
